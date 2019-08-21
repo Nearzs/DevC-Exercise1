@@ -1,0 +1,104 @@
+<!doctype html><html><head>
+
+ <title>Biodata</title>
+ <style type="text/css" id="dcoder_stylesheet">table,tr,td{
+    background-color: LightGoldenRodYellow ;
+    font-family: Verdana;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+ }
+ .h{
+    border: 8px groove yellow;
+    padding: 20px;
+ }
+ .posisi{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    left: 0;
+    right: 0;
+    top: 100px;
+    bottom: 0;
+ }
+ body{
+    background-image: url('images.jpg');
+    background-repeat: no-repeat;
+    background-size: 1400px auto;
+ }</style></head>
+ <body>
+ <form action="#" style="width: 990px" class="posisi" ;>
+ <fieldset class="h"></fieldset>
+ <table style="width: 985px;">
+ 
+ <tbody><tr>
+ <td rowspan="15" width="250px">
+ <img src="SD card/DCIM/LINECamera/17-12-31-21-49-08-875_deco.jpg" width="250px" height="420px">
+ </td>
+ </tr>
+ 
+ <tr>
+ <td><b>Nama Lengkap</b></td>
+ <td>:</td>
+ <td>Qinando Hermawan</td>
+ </tr>
+ <tr>
+ 
+ <td><b>Nama Panggilan</b></td>
+ <td>:</td>
+ <td>Nando/Qinan</td>
+ </tr>
+ <tr>
+ 
+ <td><b>Tempat, Tanggal Lahir</b></td>
+ <td>:</td>
+ <td>Surabaya, 30 September 1996</td>
+ </tr>
+ <tr>
+ 
+ <td><b>Umur</b></td>
+ <td>:</td>
+ <td>22 Tahun</td>
+ </tr>
+ <tr>
+ 
+ <td><b>Jenis Kelamin</b></td>
+ <td>:</td>
+ <td>Laki - Laki</td>
+ </tr>
+ <tr>
+ 
+ <td><b>Gol. Darah</b></td>
+ <td>:</td>
+ <td>O</td>
+ </tr>
+ <tr>
+ 
+ <td><b>Agama</b></td>
+ <td>:</td>
+ <td>Islam</td>
+ </tr>
+ <tr>
+ 
+ <td><b>Alamat</b></td>
+ <td>:</td>
+ <td>Surabaya, Benowo Graha Suryanata Blok J3/27</td>
+ </tr>
+ <tr>
+ 
+ <td><b>Pekerjaan</b></td>
+ <td>:</td>
+ <td>Mahasiswa</td>
+ </tr>
+ <tr>
+ 
+ <td><b>Kewarganegaraan</b></td>
+ <td>:</td>
+ <td>Indonesia </td>
+ </tr>
+ 
+</tbody></table></form>
+</body></html>
